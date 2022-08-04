@@ -1,16 +1,22 @@
-### Hi there 👋
+### Thank you for visiting my portoflio and projects
 
-<!--
-**dylanrstevens/dylanrstevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The following are links to current and completed projects 💻
 
-Here are some ideas to get you started:
+**Java Apps**
+- https://github.com/dylanrstevens/encryptor-decryptor
+- https://github.com/dylanrstevens/rock-paper-scissors-native-java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Projects**
+- Chrome Extension
+  Google chrome extension web scraper
+  - https://github.com/dylanrstevens/chrome-web-scraper
+- React
+  Calendar booking app for moving
+  - https://github.com/dylanrstevens/booking-app
+- Vue
+  Rock paper scissors game
+  - https://github.com/dylanrstevens/rock-paper-scissors-vue
+- Fun with HTML & CSS
+  Rain white noise player
+  - https://github.com/dylanrstevens/rain-white-noise
+  
