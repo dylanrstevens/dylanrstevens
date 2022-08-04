@@ -1,7 +1,6 @@
 ### Thank you for visiting my portoflio and projects
 
 The following are links to current and completed projects 💻
-
 <br>
 
 ## Java Apps
