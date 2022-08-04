@@ -3,6 +3,7 @@
 The following are links to current and completed projects 💻
 
 **Java Apps**
+
 Text encryptor and decryptor
 - https://github.com/dylanrstevens/encryptor-decryptor
 
