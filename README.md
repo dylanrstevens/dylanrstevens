@@ -3,7 +3,9 @@
 The following are links to current and completed projects 💻
 
 **Java Apps**
+Text encryptor and decryptor
 - https://github.com/dylanrstevens/encryptor-decryptor
+Rock paper scissors native windows app
 - https://github.com/dylanrstevens/rock-paper-scissors-native-java
 
 **Web Projects**
