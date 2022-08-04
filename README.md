@@ -1,6 +1,7 @@
 ### Thank you for visiting my portoflio and projects
 
 The following are links to current and completed projects 💻
+
 <br>
 
 **Java Apps**
@@ -12,6 +13,7 @@ Rock paper scissors native windows app
 - https://github.com/dylanrstevens/rock-paper-scissors-native-java
 
 <br>
+
 **Web Projects**
 - Chrome Extension
   Google chrome extension web scraper
