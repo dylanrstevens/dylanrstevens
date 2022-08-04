@@ -19,6 +19,7 @@ Rock paper scissors native windows app
   Google chrome extension web scraper
   - https://github.com/dylanrstevens/chrome-web-scraper
 - React
+  <br>
   Calendar booking app for moving
   - https://github.com/dylanrstevens/booking-app
 - Vue
