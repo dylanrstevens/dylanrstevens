@@ -26,7 +26,6 @@ Spotify Artwork Player
   Rain white noise player
   - https://github.com/dylanrstevens/rain-white-noise
   
-<br>
 
 ## Java Apps
 
