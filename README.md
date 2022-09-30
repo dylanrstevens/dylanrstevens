@@ -3,6 +3,11 @@
 The following are links to current and completed projects 💻
 <br>
 
+## Python Apps
+
+Spotify Artwork Player
+- https://github.com/dylanrstevens/spotify-artwork-player
+
 ## Web Projects
 - **Chrome Extension**
   <br>
