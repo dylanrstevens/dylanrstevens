@@ -26,10 +26,6 @@ Spotify Artwork Player
   <br>
   Rock paper scissors game
   - https://github.com/dylanrstevens/rock-paper-scissors-vue
-- **Fun with HTML & CSS**
-  <br>
-  Rain white noise player
-  - https://github.com/dylanrstevens/rain-white-noise
   
 
 ## Java Apps
