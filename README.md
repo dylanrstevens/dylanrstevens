@@ -3,6 +3,11 @@
 The following are links to current and completed projects 💻
 <br>
 
+## Personal Portfolio
+
+Personal Portfolio website
+- https://github.com/dylanrstevens/nextjs-portfolio
+
 ## Mobile Apps
 
 React Native Budgeting App
@@ -28,10 +33,3 @@ Spotify Artwork Player
   - https://github.com/dylanrstevens/rock-paper-scissors-vue
   
 
-## Java Apps
-
-Text encryptor and decryptor
-- https://github.com/dylanrstevens/encryptor-decryptor
-
-Rock paper scissors native windows app
-- https://github.com/dylanrstevens/rock-paper-scissors-native-java
